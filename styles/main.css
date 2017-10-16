@@ -1,0 +1,19 @@
+* {
+	margin:0;
+	height:0;
+}
+body {
+	
+}
+#content {
+	width:990px;
+	height:990px;
+	margin:0 auto;
+	border:1px solid #ccc;
+}
+
+#header {
+	height:50px;
+	background-color:red;
+}
+
